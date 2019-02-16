@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "Facultad": [
+                {
+                    "id": 1,
+                    "name": "Ingeniería"
+                },
+                {
+                    "id": 2,
+                    "name": "Comunicaciones"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciencias"
+                },
+                {
+                    "id": 4,
+                    "name": "Historia"
+                }
+            ]
+        },
+        {
+            "Cursos": [
+                {
+                    "id": 1,
+                    "name": "Matematica"
+                },
+                {
+                    "id": 2,
+                    "name": "Redacción"
+                },
+                {
+                    "id": 3,
+                    "name": "Programación"
+                },
+                {
+                    "id": 4,
+                    "name": "Sociología"
+                },
+                {
+                    "id": 5,
+                    "name": "Física"
+                },
+                {
+                    "id": 6,
+                    "name": "Química"
+                },
+                {
+                    "id": 7,
+                    "name": "Filosofia"
+                },
+                {
+                    "id": 8,
+                    "name": "Circuitos"
+                },
+                {
+                    "id": 9,
+                    "name": "Innovación"
+                },
+                {
+                    "id": 10,
+                    "name": "Humanidades"
+                }
+            ]
+        }
+    ]
+}
